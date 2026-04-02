@@ -5,7 +5,7 @@ Config.Debug = false
 -- LICENÇA DO SCRIPT
 -- Token gerado pelo bot/painel. Sem token válido o script deve ficar bloqueado (server-side).
 Config.Auth = Config.Auth or {}
-Config.Auth.Token = "QZDEV-QZ_CRAFT-GHM3VVCS0H"
+Config.Auth.Token = "SUA CHAVE KEY AQUI"
 
 -- LISTAS DE CRAFT
 -- Você pode criar várias listas (ex.: Policia, Bennys, Mecanico). Cada lista tem:
